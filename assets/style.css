@@ -81,11 +81,12 @@ body {
 }
 .about-me__introduction {
 	font-family: 'Spectral';
+	font-size: 1rem;
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+.about-me__content {
 	width: 80%;
 	font-size: 14px;
 }
